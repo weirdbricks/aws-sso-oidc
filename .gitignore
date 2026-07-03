@@ -1,0 +1,4 @@
+/bin/aws_sso_oidc_login
+/lib/
+/.shards/
+.crystal/

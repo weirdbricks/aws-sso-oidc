@@ -1,0 +1,8 @@
+name: aws-sso-oidc
+version: 0.1.0
+
+crystal: ">= 1.20.0"
+
+targets:
+  aws_sso_oidc_login:
+    main: bin/aws_sso_oidc_login.cr
